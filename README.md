@@ -7,7 +7,7 @@ The analysis explores the **distribution and nature of terrorist incidents** aro
 answering several research questions through visual and statistical methods.
 
 Each question is answered in the notebook:
-[`Notebooks/Terrorism_Data_Analysis.ipynb`](Notebooks/Terrorism_Data_Analysis.ipynb)
+[`TerrorismDataExploration.ipynb.ipynb`]TerrorismDataExploration.ipynb.ipynb)
 
 ![Análisis de terrorismo](Images/Terorrism_analysis.png)
 ---
@@ -28,14 +28,12 @@ Each question is answered in the notebook:
 ---
 
 ### 3️⃣ Is the number of incidents and the number of casualties correlated?  
-➡️ *Go to section: Incidents vs Casualties*  
 - Scatterplot correlation analysis  
 - Statistical detection of outliers and anomalies  
 
 ---
 
-### 4️⃣ What are the most common methods of attacks?  
-➡️ *Go to section: Attack Methods and Tactics*  
+### 4️⃣ What are the most common methods of attacks?   
 - Distribution of attack types  
 - Temporal evolution of most common tactics  
 - Heatmap of attack types per region  
@@ -48,10 +46,11 @@ Each question is answered in the notebook:
 
 ---
 
-## 🗺️ Dataset Description
+## Dataset Description
 The **Global Terrorism Database (GTD)** is an open-source database including detailed information  
 on terrorist incidents worldwide from **1970 through 2017**, totaling over **180,000 events**.
 
 Author: Alejandro de Manueles Bogajo
+
 🔗 LinkedIn
  | GitHub
