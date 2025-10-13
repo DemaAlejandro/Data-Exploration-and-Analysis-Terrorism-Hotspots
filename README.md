@@ -33,7 +33,7 @@ Each question is answered in the notebook:
 
 ---
 
-### 4️⃣ What are the most common methods of attacks?   
+### 4️⃣ What are the most common methods of attacks?  Does it differ in various regions or in time? 
 - Distribution of attack types  
 - Temporal evolution of most common tactics  
 - Heatmap of attack types per region  
@@ -52,5 +52,4 @@ on terrorist incidents worldwide from **1970 through 2017**, totaling over **180
 
 Author: Alejandro de Manueles Bogajo
 
-🔗 LinkedIn
- | GitHub
+🔗 [LinkedIn](https://www.linkedin.com/in/alejandrodemanueles) | [GitHub](https://github.com/alejandrodema)
