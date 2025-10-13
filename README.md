@@ -7,7 +7,7 @@ The analysis explores the **distribution and nature of terrorist incidents** aro
 answering several research questions through visual and statistical methods.
 
 Each question is answered in the notebook:
-[`TerrorismDataExploration.ipynb.ipynb`]TerrorismDataExploration.ipynb.ipynb)
+[`TerrorismDataExploration.ipynb`]TerrorismDataExploration.ipynb)
 
 ![Análisis de terrorismo](Images/Terorrism_analysis.png)
 ---
