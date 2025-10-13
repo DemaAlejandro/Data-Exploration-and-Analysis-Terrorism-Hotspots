@@ -18,32 +18,32 @@ Each question is answered in the notebook:
 - Visualization of incidents per year  
 - Identification of global peaks and shifts  
 - Regional comparison with global averages  
-
+![Numero de ataques por año](Images/nattacksperyear.png)
 ---
 
 ### 2️⃣ Are there regions where this trend is different from the global averages?  
 - Comparison of yearly activity across regions  
 - Line charts showing deviation from global mean  
-
+![Numero de ataques por año por region](Images/nattacksperyearperregion.png)
 ---
 
 ### 3️⃣ Is the number of incidents and the number of casualties correlated?  
 - Scatterplot correlation analysis  
 - Statistical detection of outliers and anomalies  
-
+![Correlacion y outliers](Images/outliers.png)
 ---
 
 ### 4️⃣ What are the most common methods of attacks?  Does it differ in various regions or in time? 
 - Distribution of attack types  
 - Temporal evolution of most common tactics  
 - Heatmap of attack types per region  
-
+![Metodos de ataque](Images/methods.png)
 ---
 
 ### 5️⃣ Plot the locations of attacks on a map to visualize their regional spread. 
 - Global map of attacks (static and interactive)  
 - Regional hotspots and high-density zones  
-
+![Mapa de ataques terroristas](Images/terrorism_map.png)
 ---
 
 ## Dataset Description
