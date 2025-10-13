@@ -52,4 +52,4 @@ on terrorist incidents worldwide from **1970 through 2017**, totaling over **180
 
 Author: Alejandro de Manueles Bogajo
 
-🔗 [LinkedIn](https://www.linkedin.com/in/alejandrodemanueles) | [GitHub](https://github.com/alejandrodema)
+🔗 [LinkedIn](https://www.linkedin.com/in/alejandrodemanueles) | [GitHub](https://github.com/DemaAlejandro)
